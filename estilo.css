@@ -1,0 +1,65 @@
+
+body{
+    background-image: url("imagem/luxa.org-opacity-changed-img\ de\ fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+    .logo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .ola{
+        color:	#000000;
+        text-align: center;
+        font-size: 90px;
+    }
+
+    .enem{
+        color: 	#0d0d0d;
+        text-align: center;
+        font-size: 50px;
+
+    }
+
+    .note{
+       color: #0d0d0d;
+       text-align: center;
+       font-size: 50px;
+    }
+
+    .img1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .oque{
+        color: 	#0d0d0d;
+        text-align: center;
+        font-size: 50px;
+
+    }
+
+    .p1{
+        color:	#000000;
+        font-size: 35px;
+        left: auto;
+        width: auto;
+    }
+
+    .p2{
+        color: #0c0606;
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .p3{
+        color: #0c0606;
+        text-align: center;
+        font-size: 51px;
+    }
