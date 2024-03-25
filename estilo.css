@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("imagem/luxa.org-opacity-changed-img\ de\ fundo.jpg");
+    background-image: url("/imagem/fundo.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -59,7 +59,30 @@ body{
     }
 
     .p3{
-        color: #0c0606;
-        text-align: center;
-        font-size: 51px;
+        color:	#000000;
+        font-size: 50px;
+        left: auto;
+        width: auto;
+    }
+
+    .left {
+        float: left;
+        font-size: 50px;
+        color: 	#0d0d0d;
+      }
+    
+      .right {
+        float: right;
+        font-size: 50px;
+        color: 	#0d0d0d;
+    }
+
+    .img07{
+        float: right;
+    }
+
+    .roda{
+     margin-top: 20px;
+     font-size: 50px;
+    
     }
