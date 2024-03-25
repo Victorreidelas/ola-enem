@@ -14,20 +14,20 @@ body{
     }
     
     .ola{
-        color:	#0c0606;
+        color:	#000000;
         text-align: center;
         font-size: 90px;
     }
 
     .enem{
-        color: 	#0c0606;
+        color: 	#000000;
         text-align: center;
         font-size: 50px;
 
     }
 
     .note{
-       color: #0c0606;
+       color: #000000;
        text-align: center;
        font-size: 50px;
     }
@@ -39,27 +39,27 @@ body{
     }
 
     .oque{
-        color: 	#0c0606;
+        color: 	#000000;
         text-align: center;
         font-size: 50px;
 
     }
 
     .p1{
-        color:	#0c0606;
+        color:	#000000;
         font-size: 35px;
         left: auto;
         width: auto;
     }
 
     .p2{
-        color: #0c0606;
+        color: #000000;
         text-align: center;
         font-size: 50px;
     }
 
     .p3{
-        color:	#0c0606;
+        color:	#000000;
         font-size: 50px;
         left: auto;
         width: auto;
@@ -74,7 +74,7 @@ body{
       .right {
         float: right;
         font-size: 50px;
-        color: 	#0c0606;
+        color: 	#000000;
     }
 
     .img07{
