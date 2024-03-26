@@ -92,3 +92,9 @@ body{
         width: 2000px;
         height: 2000px;
     }
+    .img05{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    }
